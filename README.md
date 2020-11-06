@@ -1,4 +1,5 @@
 Hi I'm Brian Mwathi
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bryan-mwas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-mwas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
